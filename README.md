@@ -4,7 +4,7 @@ Private employers, under the jurisidiction of the NLRB, may voluntarily recogniz
 
 This repository collects information from the NLRB about these voluntary recognitions, gathered through public records requests.
 
-* [`voluntary_recognitions.csv`](./voluntary_recognitions.csv)
+* [`voluntary_recognitions.csv`](https://github.com/labordata/nlrb-voluntary-recognitions/releases/download/0.1/voluntary_recognitions.csv)
 
 ## Sources
 
