@@ -9,3 +9,7 @@ This repository collects information from the NLRB about these voluntary recogni
 ## Sources
 
 - [Public Records Request for Voluntary Recognitions in the Calendar Year 2020](https://www.muckrock.com/foi/united-states-of-america-10/union-recognitions-from-card-check-process-in-2020-113413/)
+
+## Data Limitations
+
+- Per the FOIA officer, "The latest voluntary recognition reporting program just started in July 2020... No voluntary recognitions were reported to the Agency between 2009 and 2020."
