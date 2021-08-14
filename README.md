@@ -8,6 +8,7 @@ This repository collects information from the NLRB about these voluntary recogni
 
 ## Sources
 
+- [Public Records Request for Voluntary Recognitions between January 1, 2021 and June 30, 2021](https://www.muckrock.com/foi/united-states-of-america-10/voluntary-recognitions-january-1-june-30-2021-116304/)
 - [Public Records Request for Voluntary Recognitions in the Calendar Year 2020](https://www.muckrock.com/foi/united-states-of-america-10/union-recognitions-from-card-check-process-in-2020-113413/)
 - [Public Records Request for Voluntary Recognitions from 2007 to 2009](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=NLRB-2019-001262&type=request)
 
