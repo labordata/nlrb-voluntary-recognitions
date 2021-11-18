@@ -5,12 +5,14 @@ Private employers, under the jurisidiction of the NLRB, may voluntarily recogniz
 This repository collects information from the NLRB about these voluntary recognitions, gathered through public records requests.
 
 * [`voluntary_recognitions.csv`](https://raw.githubusercontent.com/labordata/nlrb-voluntary-recognitions/main/voluntary_recognitions.csv)
+* [Explore data](https://flatgithub.com/labordata/nlrb-voluntary-recognitions?filename=voluntary_recognitions.csv)
 
 ## Sources
 
 - [Public Records Request for Voluntary Recognitions between January 1, 2021 and June 30, 2021](https://www.muckrock.com/foi/united-states-of-america-10/voluntary-recognitions-january-1-june-30-2021-116304/)
 - [Public Records Request for Voluntary Recognitions in the Calendar Year 2020](https://www.muckrock.com/foi/united-states-of-america-10/union-recognitions-from-card-check-process-in-2020-113413/)
 - [Public Records Request for Voluntary Recognitions from 2007 to 2009](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=NLRB-2019-001262&type=request)
+- [Public Records Request for Voluntary recognitions, July 1, 2021 - September 30, 2021](https://www.muckrock.com/foi/united-states-of-america-10/voluntary-recognitions-july-1-2021-september-30-2021-120357/)
 
 ## Data Limitations
 
