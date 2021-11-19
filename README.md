@@ -17,3 +17,4 @@ This repository collects information from the NLRB about these voluntary recogni
 ## Data Limitations
 
 - Per the FOIA officer, "The latest voluntary recognition reporting program just started in July 2020.  Prior to that it was captured for about three years from approximately 2007-2009, which data we can provide to you as a spreadsheet if you file another FOIA request.  The spreadsheet is the only remaining record we have for the older VR cases.  No voluntary recognitions were reported to the Agency between 2009 and 2020."
+- Per the FOIA officer, "I just looked into the documents for both case files.  The first petition, 1-2977085411, which was filed on 7/26/2021, was withdrawn on 8/11/2021.  The union filed a new VR petition for the same unit on 8/17/2021, which became 1-2989673061.  The notice was posted by the employer in the second petition."
