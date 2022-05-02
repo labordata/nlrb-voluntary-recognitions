@@ -14,6 +14,7 @@ This repository collects information from the NLRB about these voluntary recogni
 - [Public Records Request for Voluntary Recognitions from 2007 to 2009](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=NLRB-2019-001262&type=request)
 - [Public Records Request for Voluntary recognitions, July 1, 2021 - September 30, 2021](https://www.muckrock.com/foi/united-states-of-america-10/voluntary-recognitions-july-1-2021-september-30-2021-120357/)
 - [Public Records Request for Voluntary recognitions, Oct 1, 2021 - December 31, 2021](https://www.muckrock.com/foi/united-states-of-america-10/voluntary-recognitions-october-1-2021-december-31-2021-122468/)
+- [Public Records Request for Voluntary recognitions, January 1, 2022 - March 31, 2022](https://www.muckrock.com/foi/united-states-of-america-10/voluntary-recognitions-january-1-2022-march-31-2022-127000/)
 
 
 ## Data Limitations
